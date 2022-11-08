@@ -1,0 +1,39 @@
+.box1{
+    background-color:plum;
+    width: 25%;
+    height: 700px;
+    margin: 2.5% 2%;
+}
+
+.box2{
+    background-color: antiquewhite;
+    width: 25%;
+    height: 700px;
+    margin: 2.5% 2%;
+}
+
+.box3{
+    background-color: blueviolet;
+    width: 25%;
+    height: 700px;
+    margin: 2.5% 2%;
+}
+
+.box4{
+    background-color: maroon;
+    width: 25%;
+    height: 700px;
+    margin: 2.5% 2%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 200px;
+    background-color: azure;
+    margin: 0em 2em;
+
+}
